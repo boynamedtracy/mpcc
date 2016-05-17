@@ -1,0 +1,759 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"arti",
+				"article-background"
+			],
+			[
+				"futura-",
+				"futura-pt-condensed"
+			],
+			[
+				"des",
+				"desktopmodules"
+			],
+			[
+				"rmi",
+				"rmi-brown"
+			],
+			[
+				"rmi-dar",
+				"rmi-darkblue"
+			],
+			[
+				"rmi-li",
+				"rmi-lightblue"
+			],
+			[
+				"rmi-light",
+				"rmi-lightbrown"
+			],
+			[
+				"rmi-d",
+				"rmi-darkblue"
+			],
+			[
+				"section",
+				"section-p"
+			],
+			[
+				"rmi-",
+				"rmi-darkbrown"
+			],
+			[
+				"carou",
+				"carousel-inner"
+			],
+			[
+				"mixin",
+				"mixin	=mixin - with Sass Syntax"
+			],
+			[
+				"font-fa",
+				"font-family-istok"
+			],
+			[
+				"rmi-dark",
+				"rmi-darkbrown"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"register",
+				"registerTask"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 409.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"xm",
+				"Set Syntax: XML"
+			],
+			[
+				"htmlp",
+				"HTMLPrettify"
+			],
+			[
+				"htmlpre",
+				"HTMLPrettify"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"c",
+				"Set Syntax: C#"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"INSTALL",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"htl",
+				"HTMLPrettify"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"X",
+				"Indent XML"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"grun",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"grn",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"chor",
+				"Set Syntax: ChordPro"
+			],
+			[
+				"choru",
+				"Snippet: ChordPro: chorus tag"
+			],
+			[
+				"new",
+				"Snippet: ChordPro: new song"
+			],
+			[
+				"chord",
+				"Set Syntax: ChordPro"
+			],
+			[
+				"ja",
+				"Javascript Beautify"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"gr",
+				"Grunt"
+			],
+			[
+				"install	",
+				"Package Control: Install Package"
+			],
+			[
+				"javas",
+				"Javascript Beautify"
+			],
+			[
+				"make",
+				"Set Syntax: Makefile"
+			],
+			[
+				"boil",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"instap",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 225.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/inetpub/wwwroot/clients/mtpulaskicc"
+	],
+	"file_history":
+	[
+		"/C/inetpub/wwwroot/clients/memorial-medical-2015/Portals/_default/Skins/MemorialMedical/Home.ascx",
+		"//wsvmm0007.lrs.com/e$/IISroot/mtpulaskicc/index.html",
+		"/C/inetpub/wwwroot/clients/memorial-medical-2015/Portals/_default/Skins/Memorial/Home.ascx",
+		"/C/inetpub/wwwroot/dnnstaging/Portals/_default/Skins/Gravity/2-Col.ascx",
+		"/C/Users/dyert/AppData/Local/Temp/ps.pdf",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/lrs_physiciansdirectory/Templates/Default/Location.cshtml",
+		"/C/inetpub/wwwroot/dnnstaging/Portals/_default/Skins/Memorial/Home.ascx",
+		"//wsvmm0001.lrs.com/e$/IISRoot/Production/MemorialMedical/Portals/_default/mmc_with_content.template",
+		"/C/Users/dyert/Documents/DNN MHS Role Mess",
+		"/C/Users/dyert/Downloads/dotnetnuke-72644/Trunk/Content/Community/Library/Security/Permissions/Controls/PermissionsGrid.cs",
+		"//wsvmm0001.lrs.com/e$/IISRoot/Production/MemorialMedical/Portals/_default/mmc_with_content.template.resources",
+		"//wsvmm0001.lrs.com/e$/IISRoot/Production/MemorialMedical/DesktopModules/Admin/Portals/Signup.ascx.cs",
+		"//wsvmm0001.lrs.com/e$/IISRoot/Production/MemorialMedical/DesktopModules/Admin/Portals/signup.ascx",
+		"/C/Users/dyert/Downloads/dotnetnuke-72644/Trunk/Content/Website/DesktopModules/Admin/Portals/Signup.ascx.cs",
+		"/C/Users/dyert/Downloads/dotnetnuke-72644/Trunk/Content_7.0.6/website/DesktopModules/Admin/Portals/Signup.ascx.cs",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/LRSPortalImport.csproj",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/View.ascx.cs",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/View.ascx",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/LRSPortalImport.dnn",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/Admin/Admin.master",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/Components/API/LRSPortalImportController.cs",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/LRSPortalImport.sln",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/LRSPortalImportModuleBase.cs",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/LRSPortalImportModuleSettingsBase.cs",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/README.md",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/ReleaseNotes.txt",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/Settings.ascx",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/Settings.ascx.cs",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/Settings.ascx.designer.cs",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/View.ascx.designer.cs",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/Admin/Admin.master.cs",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/Admin/Admin.master.designer.cs",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/Admin/Default.aspx",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/Admin/Default.aspx.cs",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/Admin/Default.aspx.designer.cs",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/Components/API/LRSPortalImportAdmin.cs",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/Components/API/RouteMapper.cs",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/Components/Common/Constants.cs",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/Components/Common/Enums.cs",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/Components/Common/Utilities.cs",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/Components/Controllers/FeatureController.cs",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/Components/Controllers/Reporting.cs",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/Components/Model/CompletionReport.cs",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/obj/Debug/WLWC_Reporting.csproj.FileListAbsolute.txt",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/obj/Debug/WU_Locations.csproj.FileListAbsolute.txt",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/obj/Release/WLWC_Reporting.csproj.FileListAbsolute.txt",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/obj/Release/WU_Locations.csproj.FileListAbsolute.txt",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/Properties/AssemblyInfo.cs",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/Templates/Default/Home.cshtml",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/Edit.ascx",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/Edit.ascx.cs",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/LRSPortalImport/Edit.ascx.designer.cs",
+		"//wsvmm0001.lrs.com/E/IISRoot/Production/MemorialMedical/Portals/_default/Logs/2016.05.02.log.resources",
+		"//wsvmm0011.lrs.com/e$/IISROOT/MemorialMedical_Demo/web.config",
+		"//wsvmm0011.lrs.com/e$/IISROOT/MemorialMedical_Demo/Portals/_default/mmc.template",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/dnnpress/Components/Controllers/FeatureController.cs",
+		"/C/Users/dyert/Downloads/dotnetnuke-72644/Trunk/Content_7.0.6/website/DesktopModules/Admin/Portals/Template.ascx.cs",
+		"//wsvmm0011.lrs.com/e$/IISROOT/MemorialMedical_Demo/Portals/_default/Logs/2016.04.28.log.resources",
+		"//wsvmm0011.lrs.com/e$/IISROOT/MemorialMedical_Demo/Portals/_default/MMC2.template",
+		"//wsvmm0011.lrs.com/e$/IISROOT/MemorialMedical_Demo/Portals/_default/mmc2.template",
+		"//Wsvmm0001.lrs.com/e/IISRoot/Production/MemorialMedical/Portals/_default/Skins/Memorial/Two-Column.ascx",
+		"//Wsvmm0001.lrs.com/e/IISRoot/Production/MemorialMedical/Portals/_default/Skins/Memorial/includes/sidebar-left.inc",
+		"//Wsvmm0001.lrs.com/e/IISRoot/Production/MemorialMedical/Portals/_default/Skins/Memorial/Home.ascx",
+		"//Wsvmm0001.lrs.com/e/IISRoot/Production/MemorialMedical/Portals/_default/Skins/Memorial/includes/footer.inc",
+		"/C/Users/dyert/Documents/CSS/blur-admin/html-only/index.html",
+		"/C/Users/dyert/Documents/CSS/blur-admin/release/index.html",
+		"/C/Users/dyert/Documents/CSS/blur-admin/src/index.html",
+		"/C/Users/dyert/Documents/CSS/blur-admin/blur-admin.sublime-project",
+		"/C/Users/dyert/Documents/CSS/blur-admin/.tmp/serve/index.html",
+		"/C/Users/dyert/Documents/CSS/blur-admin/bower_components/ammap/dist/ammap/ammap.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/dashboard/dashboardMap/DashboardMapCtrl.js",
+		"/C/inetpub/wwwroot/dnndev/DesktopModules/LRSWEB/dnnpress/Admin/blur-admin/blur-admin-dnnpress.sublime-project",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/release/index.html",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/release/maps/scripts/vendor-4358abeb0d.js.map",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/sass/theme/conf/_mixins.scss",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/release/maps/scripts/app-79e24869de.js.map",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/release/scripts/app-79e24869de.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/charts/amCharts/amCharts.module.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/charts/chartist/chartist.module.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/charts/chartJs/chartJs.module.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/charts/morris/morris.module.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/components/mail/mail.module.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/components/mail/composeBox/composeModal.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/components/timeline/timeline.module.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/components/tree/tree.module.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/dashboard/dashboard.module.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/dashboard/blurFeed/blurFeed.directive.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/dashboard/dashboardCalendar/dashboardCalendar.directive.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/dashboard/dashboardLineChart/dashboardLineChart.directive.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/dashboard/dashboardMap/dashboardMap.directive.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/dashboard/dashboardPieChart/dashboardPieChart.directive.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/dashboard/dashboardTodo/dashboardTodo.directive.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/dashboard/popularApp/popularApp.directive.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/dashboard/trafficChart/trafficChart.directive.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/dashboard/weather/weather.directive.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/form/form.module.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/maps/maps.module.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/profile/profile.module.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/profile/ProfilePageCtrl.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/tables/tables.module.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/ui/alerts/alerts.module.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/ui/buttons/buttons.module.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/ui/grid/grid.module.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/ui/icons/icons.module.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/ui/modals/modals.module.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/ui/notifications/notifications.module.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/ui/panels/panels.module.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/ui/progressBars/progressBars.module.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/ui/slider/slider.module.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/ui/tabs/tabs.module.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/pages/ui/typography/typography.module.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/theme/components/backTop/backTop.directive.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/theme/components/baWizard/baWizard.directive.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/theme/components/contentTop/contentTop.directive.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/theme/components/msgCenter/msgCenter.directive.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/theme/components/pageTop/pageTop.directive.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/theme/components/sidebar/sidebar.directive.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/theme/components/widgets/widgets.directive.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/src/app/tplSkin/tplSkinPanel.directive.js",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/.tmp/serve/404.html",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/.tmp/serve/auth.html",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/.tmp/serve/index.html",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/.tmp/serve/reg.html",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/release/404.html",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/release/auth.html",
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/release/reg.html"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 197.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"\"",
+			"pg1html",
+			"HasPermission",
+			".split",
+			"(446,",
+			"(399,",
+			"\\(490,",
+			"\\(255,",
+			"\\(1698,",
+			"\\(838,",
+			"\\(641,",
+			"\\(205,",
+			"\\(213,",
+			"\\(212,",
+			"\\(678,",
+			"\\(223,",
+			"\\(257,",
+			"\\(256,",
+			"\\(255,",
+			"\\(254,",
+			"\\(253,",
+			"\\(83,",
+			"\\((\\d+),\\s(\\d+),\\s(\\d+),\\s0,",
+			"\\((\\d+),\\s(\\d+),\\s(\\d+),\\s(\\d+)",
+			"/((\\d+),\\s(\\d+),\\s(\\d+),\\s(\\d+)",
+			"'((\\d+),\\s(\\d+),\\s(\\d+),\\s(\\d+)",
+			"[TabPermissionID], ",
+			"([TabPermissionID],  ",
+			"\\(\\[TabPermissionID\\],\\s ",
+			"\\(\\[TabPermissionID\\[,\\s ",
+			"([TabPermissionID], ",
+			"\\((\\d+),\\s",
+			"[TabPermissionID], ",
+			"<role>",
+			"<roles>",
+			"roles",
+			"GetRoles",
+			"BindRolesGrid",
+			"BindData",
+			"PermissionsGrid",
+			"EnsureRole",
+			"PermissionsGrid",
+			"EnsureRole",
+			"%20",
+			"WLWC Reporting",
+			"WLWC_Reporting",
+			"dnnPortalSignup",
+			"54",
+			"90",
+			"[WSVMM0001][Thread:78][ERROR] DotNetNuke.Services.Exceptions.Exceptions - DotNetNuke.Services.Exceptions.SearchException: Unable to create Lucene writer (lock file is in use). Please recycle AppPool in IIS to release lock. ---> System.IO.IOException: The process cannot access the file 'E:\\iisroot\\Production\\MemorialMedical\\App_Data\\Search\\write.lock' because it is being used by another process.\n   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)\n   at System.IO.File.InternalDelete(String path, Boolean checkHost)\n   at DotNetNuke.Services.Search.Internals.LuceneControllerImpl.get_Writer()\n   --- End of inner exception stack trace ---\n   at DotNetNuke.Services.Search.Internals.LuceneControllerImpl.get_Writer()\n   at DotNetNuke.Services.Search.Internals.LuceneControllerImpl.Delete(Query query)\n   at DotNetNuke.Services.Search.Internals.InternalSearchControllerImpl.DeleteSearchDocumentInternal(SearchDocument searchDocument, Boolean autoCommit)\n   at DotNetNuke.Services.Search.SearchDataStore.StoreSearchItems(SearchItemInfoCollection searchItems)\n   at DotNetNuke.Services.Search.SearchEngine.IndexContent()\n   at DotNetNuke.Services.Search.SearchEngineScheduler.DoWork()",
+			"2016-05-02 11:17:54,501 [WSVMM0001][Thread:78][ERROR] DotNetNuke.Services.Exceptions.Exceptions - DotNetNuke.Services.Exceptions.SearchException: Unable to create Lucene writer (lock file is in use). Please recycle AppPool in IIS to release lock. ---> System.IO.IOException: The process cannot access the file 'E:\\iisroot\\Production\\MemorialMedical\\App_Data\\Search\\write.lock' because it is being used by another process.\n   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)\n   at System.IO.File.InternalDelete(String path, Boolean checkHost)\n   at DotNetNuke.Services.Search.Internals.LuceneControllerImpl.get_Writer()\n   --- End of inner exception stack trace ---\n   at DotNetNuke.Services.Search.Internals.LuceneControllerImpl.get_Writer()\n   at DotNetNuke.Services.Search.Internals.LuceneControllerImpl.Delete(Query query)\n   at DotNetNuke.Services.Search.Internals.InternalSearchControllerImpl.DeleteSearchDocumentInternal(SearchDocument searchDocument, Boolean autoCommit)\n   at DotNetNuke.Services.Search.SearchDataStore.StoreSearchItems(SearchItemInfoCollection searchItems)\n   at DotNetNuke.Services.Search.SearchEngine.IndexContent()\n   at DotNetNuke.Services.Search.SearchEngineScheduler.DoWork()",
+			".split",
+			"[Error]",
+			"cmdExport_Click",
+			"Unable to find tabId",
+			"zoom-in",
+			"zoomIn",
+			"maps.google.com",
+			"this.zoomControl",
+			"zoomControl",
+			"sidebar.html",
+			"blur-admin/vendo",
+			"vendor-4358abeb0d.js",
+			"/admin/assets/",
+			"admin/assets/",
+			"blur-bg.jpg",
+			"assets/",
+			"/desktopmodules/lrsweb/dnnpress/admin/app/",
+			"/desktopmodules/lrsweb/dnnpress/admin/assets/",
+			"templateUrl: 'assets",
+			"templateUrl: 'app",
+			"templateUrl",
+			"3.5",
+			"[Error]",
+			"trust",
+			"ConfirmationMessageText",
+			"SendConfirmation",
+			"MailFunctions",
+			"ReplaceTokens",
+			"EmailTemplateFunctions",
+			"log.add",
+			"log = ",
+			"sendem",
+			"2016-03-21 19:11",
+			"FFTextBox",
+			"State",
+			"state",
+			"City",
+			"city",
+			"Address",
+			"address",
+			"SendSecureEmails",
+			"//",
+			"SectionListSidebarView",
+			"<modules",
+			"web",
+			"Route(",
+			"fbi.",
+			"catVocabId",
+			"CategoriesVocab",
+			"catType",
+			".cshtml",
+			"CompletionReportViewModel",
+			"CourseCompletion",
+			"Skins/MHQA/",
+			"Capture",
+			"SendSecureEmails",
+			"State",
+			"City",
+			"Address",
+			"Email",
+			"lblEmail",
+			"Middle Name",
+			"Name",
+			"MiddleName",
+			"lblMiddleName",
+			"Last Name",
+			"LastName",
+			"First Name",
+			"FirstName",
+			"><",
+			"dnx run",
+			"tPager",
+			"formatCardNumber =",
+			"formatCardNumber",
+			"recaptcha",
+			"google",
+			"formatCardNumber"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"(12157,",
+			"(12573,",
+			"(12197,",
+			"(11698,",
+			"(11937,",
+			"(12258,",
+			"(12098,",
+			"(12387,",
+			"(12386,",
+			"(11922,",
+			"(12550,",
+			"(11699,",
+			"(12103,",
+			"(11698,",
+			"(12102,",
+			"(11697,",
+			"(11416,",
+			"($1, $2, $3, 209,",
+			"($1, $2, $3, $4",
+			"",
+			"(",
+			"($1",
+			"LRS Portal Importer",
+			"LRSPortalImport",
+			"/desktopmodules/lrsweb/dnnpress/admin/blur-admin/app/",
+			"/desktopmodules/lrsweb/dnnpress/admin/blur-admin/assets/",
+			"templateUrl: '/desktopmodules/lrsweb/dnnpress/admin/app",
+			"CourseParticipants",
+			"Skins/MHQA2k16/",
+			"",
+			"db",
+			"appDb",
+			"hcc",
+			"HCC",
+			"Template",
+			"ITemplate",
+			"Template",
+			"template",
+			"tc.",
+			"Templates",
+			"Section",
+			"WLWCMenu",
+			"mhs_wlwc",
+			"MHS_WLWC",
+			"WLWC Reporting",
+			"WLWC_Reporting",
+			"filterPatientStories",
+			"filteredPatientStories",
+			"PatientStoryService",
+			"IPatientStory",
+			"patientStoryFilter.js",
+			"app/patient-stories/",
+			"patientStoriesEditController",
+			"psC",
+			"Data.Controllers.PatientStories",
+			"/patient-story/",
+			"patient-stories.html",
+			"app\\patient-stories\\",
+			"Admin\\app\\patient-stories\\",
+			"MHS Patient Stories",
+			"mhs_patient_stories",
+			"physDetailsUrl",
+			"physicianSpecialtiesController",
+			"Specialty",
+			"Physician",
+			"LRS Physicians Directory",
+			"LRS_PhysiciansDirectory",
+			"Industry",
+			"WU_ContactForm",
+			"",
+			"MHS_PreReg",
+			"locations",
+			"Location",
+			"Locations",
+			"WU_Locations",
+			"tombstonesController",
+			"tombstones.html",
+			"tombstonesEditController.js",
+			"tombstonesController.js",
+			"WU_Tombstones",
+			"Tombstone",
+			"Tombstones",
+			"wu_tombstones",
+			"tombstone",
+			"Tombstones",
+			"LRSWEB.Modules.WU_Tombstones",
+			"Tombstones",
+			"</Analyst>",
+			"<Analyst>",
+			"industryRank",
+			"IndustryRank",
+			"IndustryID",
+			"industryId",
+			"industryCoverage",
+			"industrycoverage",
+			"IndustryCoverage",
+			"Data.Model.Sector",
+			"WU_Coverage",
+			"WUCoverage",
+			"LRSWEB.Modules.WUCoverage",
+			"patty@designer-landscapes.com",
+			"/eject",
+			"eject",
+			"eject_",
+			"ee2e24"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 44.0
+	},
+	"input":
+	{
+		"height": 77.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 274.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mtpulaskicc site.sublime-project",
+	"replace":
+	{
+		"height": 84.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 425.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
