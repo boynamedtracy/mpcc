@@ -1,5 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
+
 @import "bootstrap";
 @import "font-awesome";
+
+@import "media-player";
 
 .header_meta_container {
 	position: relative;
@@ -235,4 +239,96 @@
 .home-student-takeover {
 	min-height: 300px;
 	padding: 0 0 30px 0;
+}
+
+.home-recent-sermons {
+	color: #fff;
+	padding: 30px 0;
+
+	h2 {
+		font-family: 'Roboto', 'sans-serif';
+		font-weight: 500;
+		text-transform: uppercase;
+	}
+
+	.podcast-logo {
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	h3 {
+		color: #fff;
+		text-transform: uppercase;
+		font-size: 13px;
+		font-family: 'Roboto', 'sans-serif';
+		font-weight: 500;
+	}
+
+	.sermon-meta {
+		margin: 10px 0;
+		color: #e1e1e1;
+	}
+
+}
+
+.home-features {
+	.title {
+		background: #f8f8f8;
+		border-left: solid 4px #e1e1e1;
+		color: #919191;
+		font-family: 'Roboto', 'sans-serif';
+		font-size: 14px;
+		padding: 10px 20px;
+		margin: 20px 0px;
+		text-transform: uppercase;
+		font-weight: normal;
+	}
+}
+
+.home-annoucement {
+	margin: 0px 20px;
+	.annoucement {
+		margin: 20px 0 30px 0;
+
+		.annoucement-title {
+			color: #222;
+			font-size: 17px;
+			font-family: 'Roboto', 'sans-serif';
+			a {
+				color: #222;
+			}
+		}
+
+		p {
+			color: #666;
+			line-height: 1.5em;
+		}			
+	}
+
+}
+
+.home-events {
+	.events {
+		.event {
+			color: rgb(102, 102, 102);
+			.event-title {
+				
+				letter-spacing: .1em;
+				font-size: 14px;
+				font-weight: normal;
+				font-family: 'Roboto', 'sans-serif';
+				margin: 0;
+
+				a {
+					color: rgb(102, 102, 102);
+					letter-spacing: .1em;
+				}
+
+			}
+			.event-dates {
+				color: rgb(145, 145, 145);
+				font-size: 12px;
+			}
+		}
+	}
 }

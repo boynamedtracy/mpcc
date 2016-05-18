@@ -6,7 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Title Page</title>
-    <link rel="stylesheet" href="/lib/dest/css/styles.css" type="text/css">
+    <link rel="stylesheet" href="/bower_components/mediaelement/build/mediaelementplayer.css" type="text/css" />
+    <link rel="stylesheet" href="/lib/dest/css/styles.css" type="text/css" />
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -67,14 +68,43 @@
             </div>
         </div>
         <div class="container home-features">
-            <div class="col-md-4">
-                <h3>Announcements</h3>
+            <div class="col-md-9">
+                <h2 class="title">Recent Announcements</h2>
+                <div class="home-annoucement">
+                <div class="annoucement">
+                <h2 class="annoucement-title">
+                <a href="javascript:;">Announcement Number 1</a>
+                </h2>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas velit 
+                    lacinia, convallis metus a, dapibus odio. Maecenas dapibus eu tortor nec convallis. 
+                    Suspendisse potenti. Maecenas cursus neque diam. Suspendisse suscipit aliquet auctor. 
+                    Pellentesque malesuada, nibh ac pretium maximus, orci mauris fringilla ante, at 
+                    consectetur sapien nunc nec augue.H
+                </p>
+                </div>
+                <div class="annoucement">
+                <h2 class="annoucement-title">
+                <a href="javascript:;">Announcement Number 2</a>
+                </h2>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas velit 
+                    lacinia, convallis metus a, dapibus odio. Maecenas dapibus eu tortor nec convallis. 
+                    Suspendisse potenti. Maecenas cursus neque diam. Suspendisse suscipit aliquet auctor. 
+                    Pellentesque malesuada, nibh ac pretium maximus, orci mauris fringilla ante, at 
+                    consectetur sapien nunc nec augue.H
+                </p>
+                </div>
+                </div>
             </div>
-            <div class="col-md-4">
-                <h3>Events</h3>
-            </div>
-            <div class="col-md-4">
-                <h3>Sermons</h3>
+            <div class="col-md-3 home-events">
+                <h2 class="title">Upcoming Events</h3>
+                <div class="events">
+                <div class="event">
+                <h3 class="event-title"><a href="javascript:;">Event 1</a></h3>
+                <p class="event-dates">May 18, 2016 7:00 pm</p>
+                </div>
+                </div>
             </div>
         </div>
         <div class="container-fluid grunge-dark-bg home-student-takeover">
@@ -94,6 +124,33 @@
                 </div>
             </div>
         </div>
+        <div class="container-fluid textured-bg home-recent-sermons">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3">
+                        <a href="javascript:;"><img src="/lib/dest/img/podcast_logo.png" class="img-responsive podcast-logo" /></a>
+                    </div>
+                    <div class="col-md-3">
+                        <h3 class="sermon-title">Piggy Bank University</h3>
+                        <audio src="http://www.buzzsprout.com/16164/382423-piggy-bank-university.mp3?client_source=admin&referrer=https%3A%2F%2Fwww.buzzsprout.com%2F16164%2F382423-piggy-bank-university%3Fclient_source%3Dadmin%26iframe%3Dtrue" class="mejs-player" width="100%"></audio>
+                        <p class="sermon-meta"><strong>May 15, 2016</strong><br />
+                        Mark Weber</p>
+                    </div>
+                    <div class="col-md-3">
+                        <h3 class="sermon-title">Mother's Day</h3>
+                        <audio src="https://www.buzzsprout.com/16164/380240-mother-s-day.mp3?client_source=admin&referrer=https%3A%2F%2Fwww.buzzsprout.com%2F16164%2F380240-mother-s-day%3Fclient_source%3Dadmin%26iframe%3Dtrue" class="mejs-player" width="100%"></audio>
+                        <p class="sermon-meta"><strong>May 8, 2016</strong><br />
+                        Mark Weber</p>
+                    </div>
+                    <div class="col-md-3">
+                        <h3 class="sermon-title">The Family of God</h3>
+                        <audio src="https://www.buzzsprout.com/16164/375609-the-family-of-god.mp3?client_source=admin&referrer=https%3A%2F%2Fwww.buzzsprout.com%2F16164%2F375609-the-family-of-god%3Fclient_source%3Dadmin%26iframe%3Dtrue" class="mejs-player" width="100%"></audio>
+                        <p class="sermon-meta"><strong>April 24, 2016</strong><br />
+                        Mark Weber</p>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div id="footer" class="container_fluid textured-bg">
             <div class="container">
                 <div class="col col-md-4">
@@ -109,13 +166,14 @@
     </div>
     <div id="socket" class="container-fluid dark-bg">
         <div class="container">
-            <span class="copyright">&copy; Mt Pulaski Christian Church</span>
+            <span class="copyright">&copy; 2016 Mt Pulaski Christian Church</span>
             <div class="sub_menu"></div>
         </div>
     </div>
     <!-- jQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script>
     <script src="/lib/dest/js/bootstrap.min.js"></script>
+    <script src="/bower_components/mediaelement/build/mediaelement-and-player.min.js"></script>
     <script type="text/javascript">
     $(function() {
 

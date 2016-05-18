@@ -1,0 +1,12 @@
+
+.mejs-container .mejs-controls .mejs-time-rail {
+	display: none;
+}
+
+.mejs-container .mejs-controls .mejs-mute {
+	float: right;
+}
+
+.alternate_color .mejs-controls .mejs-time-rail .mejs-time-current, .alternate_color .mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-current, .alternate_color .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current {
+	background: #2d5c88 linear-gradient(-45deg, #2d5c88 25%, #4f7eaa 25%, #4f7eaa 50%, #2d5c88 50%, #2d5c88 75%, #4f7eaa 75%, #4f7eaa) repeat scroll 0 0 / 6px 6px;
+}
