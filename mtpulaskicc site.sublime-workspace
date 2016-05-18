@@ -71,6 +71,62 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "lib/src/sass/styles.scss",
+			"settings":
+			{
+				"buffer_size": 7147,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n#top .slide_controls a {\n    display: block;\n}\n.slideshow {\n    height: 400px;\n}\n.stretched .slideshow {\n    height: 377px;\n}\n#top .template-blog .slideshow, #top .template-page .slideshow {\n    height: 214px;\n}\n#top .one_fourth .slideshow, #top .three_fourth .slideshow, #top div .two_fourth .slideshow {\n    height: 172px;\n}\n#top .one_third .slideshow, #top .two_third .slideshow {\n    height: 139px;\n}\n#top .one_half .slideshow {\n    height: 375px;\n}\n#top .sidebar_right .slideshow, #top .sidebar_left.slideshow {\n    height: 246px;\n}\n.boxed #slideshow_big .slideshow {\n    height: 315px;\n    overflow: hidden;\n}\n.boxed #slideshow_big {\n    overflow: hidden;\n}\n#top #slideshow_big .image_overlay_effect {\n    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;\n}\n#top #slideshow_big .preloading {\n    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;\n}\n#top #slideshow_big .slideshow_container {\n    margin-bottom: 0;\n}\n#top .slideshow_container .slideshow li {\n}\n#top #slideshow_big .container, #top #slideshow_big .slideshow_container {\n    background: transparent none repeat scroll 0 0;\n    overflow: visible;\n    width: 100%;\n}\n.filtered-image {\n    transition-duration: 0.4s;\n    transition-property: opacity;\n}\n.filtered-image:hover {\n    opacity: 0;\n}\n.msie7 .filtered-image, .msie8 .filtered-image {\n}\n#top #wrap_all .filtered-image {\n    position: absolute;\n    top: 0;\n    z-index: 5;\n}\n#top .slideshow_container {\n    clear: both;\n    margin-bottom: 30px;\n    position: relative;\n}\n#top .slideshow_container ul {\n    margin: 0 auto;\n}\n#top .slideshow {\n    color: #fff;\n    list-style-position: outside;\n    list-style-type: none;\n    overflow: hidden;\n    padding: 0;\n    position: relative;\n    width: 100%;\n    z-index: 2;\n}\n#top .slideshow li {\n    display: none;\n    height: 100%;\n    left: 0;\n    margin: 0;\n    padding: 0;\n    position: absolute;\n    top: 0;\n    width: 100%;\n}\n#top .slideshow li:first-child {\n    display: block;\n    position: relative;\n}\n.js_active #top .slideshow li:first-child {\n    visibility: hidden;\n}\n#top .slideshow li img {\n    border: medium none;\n    display: block;\n    height: auto;\n    margin: 0;\n    padding: 0;\n    position: relative;\n    width: 100%;\n    z-index: 3;\n}\n.slideshow_container li > a, .slideshow_container li .slideshow_media_wrap > a {\n    display: block;\n    position: relative;\n}\n#top .slideshow li iframe, #top .slideshow li object, #top .slideshow li embed {\n    display: none;\n    height: 100%;\n    left: 0;\n    position: absolute;\n    top: 0;\n    width: 100%;\n    z-index: 2;\n}\n#top .slideshow .videoslide {\n    background: #000 none repeat scroll 0 0;\n}\n.slideshow_media_wrap {\n    box-sizing: border-box;\n    height: 100%;\n    overflow: hidden;\n    position: relative;\n    width: 100%;\n}\n#top div .small_image img, #top div .small_image iframe {\n    border: 10px solid #fff;\n    border-radius: 3px;\n    left: -10px;\n    top: -10px;\n}\n#top #wrap_all .slideshow .small_image iframe {\n    height: 80%;\n    padding: 0;\n    top: 10%;\n}\n.small_image .slideshow_media_wrap {\n    overflow: visible;\n    width: 40%;\n}\n.small_image_right .slideshow_media_wrap {\n    float: right;\n}\n#top .with_border .slideshow_media_wrap {\n    padding: 40px 0;\n}\n#top .with_border.small_image_right .slideshow_media_wrap {\n    right: 40px;\n}\n#top .with_border.small_image_left .slideshow_media_wrap {\n    left: 40px;\n}\n#top div .slideshow .small_image {\n    background: transparent none repeat scroll 0 0;\n}\n#top .slideshow .small_image iframe, #top .slideshow .small_image object, #top .slideshow .small_image embed {\n    box-sizing: border-box;\n    padding: 20px 0;\n}\n.caption_link {\n    cursor: pointer;\n}\n#slideshow_big .slideshow_caption {\n    width: 50%;\n}\ndiv .slideshow .slideshow_caption {\n    bottom: 10%;\n    color: inherit;\n    display: block;\n    left: 40px;\n    position: absolute;\n    text-decoration: none;\n    top: auto;\n    width: 30.5%;\n    z-index: 100;\n}\ndiv .slideshow_caption h1, div .slideshow_caption h2, div .slideshow_caption h3, div .slideshow_caption h4, div .slideshow_caption h5, div .slideshow_caption h5, div .slideshow_caption a, #top a.slideshow_caption {\n    color: inherit;\n    font-weight: normal;\n    letter-spacing: normal;\n    text-transform: none;\n}\n.slideshow_inner_caption {\n    display: table;\n    height: 100%;\n    position: relative;\n    width: 100%;\n}\n.slideshow_align_caption {\n    display: table-cell;\n    padding: 40px;\n    position: relative;\n    vertical-align: middle;\n}\n.slideshow_inner_caption h1 {\n    font-size: 30px;\n    margin-bottom: 8px;\n}\n.one_fourth .slideshow_caption {\n    display: none;\n}\n.videoslide:hover .slideshow_caption {\n    display: none;\n}\n.videoslide.small_image:hover .slideshow_caption {\n    display: block;\n}\n#top .slideshow_caption .button_wrap {\n    overflow: hidden;\n    padding-top: 10px;\n    position: relative;\n}\n#top .caption-slideshow-button {\n    padding: 0 3%;\n    text-align: center;\n    width: 42%;\n}\n#top #wrap_all .button_wrap_1 .caption-slideshow-button {\n    margin: 0;\n    width: 94%;\n}\n#top .caption-slideshow-button:hover {\n    opacity: 1;\n}\n#top .caption-slideshow-button.slideshow_button2_class {\n    margin-left: 2%;\n}\n.slide_container_static img, .slide_container_static iframe {\n    display: block;\n    padding-top: 7px;\n    width: 100%;\n}\n.slide_container_static li:first-child img, .slide_container_static li:first-child iframe {\n    padding: 0;\n}\n.caption_left .slideshow_caption {\n    left: 0;\n}\n#top .caption_right .slideshow_caption {\n    left: auto;\n    right: 0;\n}\n#top .caption_right_framed .slideshow_caption {\n    left: auto;\n    right: 40px;\n}\n.caption_bottom .slideshow_caption {\n    bottom: 0;\n    height: auto;\n    left: 0;\n    width: 100%;\n}\n#top div .caption_center .slideshow_caption {\n    bottom: 0;\n    height: 100%;\n    left: 0;\n    text-align: center;\n    width: 100%;\n}\n.caption_bottom .slideshow_caption .slideshow_inner_caption {\n    bottom: 0;\n    display: block;\n    height: auto;\n    padding: 0;\n    position: absolute;\n    width: 100%;\n}\n.caption_bottom .slideshow_caption .slideshow_inner_caption .slideshow_align_caption {\n    display: block;\n    padding: 20px;\n}\n.caption_framed .slideshow_caption .slideshow_inner_caption {\n    background: rgba(0, 0, 0, 0.5) none repeat scroll 0 0;\n    border-radius: 3px;\n}\n.msie7 .caption_framed .slideshow_caption .slideshow_inner_caption, .msie8 .caption_framed .slideshow_caption .slideshow_inner_caption {\n    background: #000 none repeat scroll 0 0;\n}\n#top .caption_supersize .slideshow_caption {\n    width: 50%;\n}\n#top .caption_supersize .slideshow_caption h1 {\n    font-size: 60px;\n    line-height: 1em;\n    position: relative;\n    text-transform: uppercase;\n}\n#top .caption_supersize .slideshow_caption .featured_caption {\n    font-size: 15px;\n    line-height: 1.3em;\n    position: relative;\n}\n#top .caption_supersize .caption-slideshow-button {\n    max-width: 150px;\n    padding: 1% 3%;\n}\n.button_wrap {\n    position: relative;\n}\n#top .caption_animate h1, #top .caption_animate .featured_caption, #top .caption_animate .button_wrap {\n    opacity: 0;\n}\n#top .caption_animate_side .slideshow_caption h1 {\n    left: -1300px;\n}\n#top .caption_animate_side .slideshow_caption .featured_caption {\n    left: 1300px;\n}\n#top .caption_animate_side .slideshow_caption .button_wrap {\n    left: -1900px;\n}\n#top .caption_animate_top .slideshow_caption h1 {\n    top: -40px;\n}\n#top .caption_animate_top .slideshow_caption .featured_caption {\n    top: 40px;\n}\n#top .caption_animate_top .slideshow_caption .button_wrap {\n    top: 80px;\n}\n.slideshow_inner_caption h1, .slideshow_inner_caption div {\n    position: relative;\n}\n.portfolio-sort-container .flex_column .slideshow_caption {\n    height: auto;\n    width: 100%;\n}\n.slide_controls {\n    display: block;\n    position: relative;\n    z-index: 20;\n}\n.numeric_controls, .arrow_controls {\n    bottom: 10px;\n    position: absolute;\n}\n#top div .arrow_controls a {\n    background-color: #333;\n}\ndiv .numeric_controls {\n    display: none;\n    left: 10px;\n}\ndiv .arrow_controls {\n    right: 10px;\n}\n#top .dynamic_template_columns .arrow_controls {\n    display: none;\n}\n.ctrl_previous, .ctrl_next, .ctrl_pause_play {\n    background: #000 url(\"../images/layout/arrow_set.png\") no-repeat scroll -35px center;\n    border-radius: 100px;\n    display: none;\n    float: left;\n    height: 20px;\n    margin-left: 2px;\n    outline: medium none;\n    overflow: hidden;\n    text-indent: 200%;\n    width: 20px;\n    z-index: 200;\n}\n.ctrl_previous {\n    background: #000 url(\"../images/layout/arrow_set.png\") no-repeat scroll -5px center;\n}\n.ctrl_pause_play {\n    background: #000 url(\"../images/layout/arrow_set.png\") no-repeat scroll -65px center;\n    display: none !important;\n}\n.ctrl_active_rotation.ctrl_pause_play {\n    background: transparent url(\"../images/layout/arrow_set.png\") no-repeat scroll -90px center;\n}\n.numeric_controls a {\n    background-color: #e1e1e1;\n    border-radius: 100px;\n    display: none;\n    float: left;\n    height: 8px;\n    margin-left: 2px;\n    outline: medium none;\n    overflow: hidden;\n    text-indent: 200%;\n    width: 8px;\n}\n#top #wrap_all .numeric_controls .active_item {\n    border: medium none;\n    padding: 1px;\n}\n#top #slideshow_big .arrow_controls {\n    position: static;\n}\n#top #slideshow_big .arrow_controls a {\n    background: #fff url(\"../images/layout/arrow.png\") no-repeat scroll 3px center;\n    border-radius: 100px;\n    bottom: auto;\n    display: none;\n    float: left;\n    height: 75px;\n    left: -110px;\n    margin: -37px 0 0;\n    position: absolute;\n    top: 50%;\n    width: 75px;\n    z-index: 100;\n}\n#top #slideshow_big .arrow_controls .ctrl_next {\n    background: #fff url(\"../images/layout/arrow.png\") no-repeat scroll -129px center;\n    left: auto;\n    right: -110px;\n}\n#top .slideshow_container .arrow_controls .css_3_hover_container:hover {\n    background-color: transparent !important;\n}\n.thumbnails_container_wrap {\n    border-bottom-style: solid;\n    border-bottom-width: 1px;\n}\n.thumbnails_container {\n    overflow: hidden;\n    padding: 30px 50px;\n    position: relative;\n}\n.thumbnails_container .slideThumb {\n    cursor: pointer;\n    float: left;\n    margin: 0 7px 4px 0;\n    opacity: 0.5;\n}\n.thumbnails_container .activeslideThumb {\n    opacity: 1;\n}\n.img_span {\n    border-style: solid;\n    border-width: 1px;\n    display: block;\n    padding: 2px;\n    position: relative;\n}\n.img_span, .img_span img {\n    height: 50px;\n    width: 70px;\n}\n.img_span .filtered-image {\n    left: 2px;\n    position: absolute;\n    top: 2px;\n    z-index: 5;\n}\n#top .activeslideThumb .filtered-image {\n    display: none;\n}\n.thumbnails_container .slideThumb img {\n    display: block;\n}\n#top div .slideshow_container .numeric_controls {\n    bottom: -27px;\n    left: 0;\n    overflow: hidden;\n    position: absolute;\n    text-align: center;\n    width: 100%;\n}\n#top div .slideshow_container .numeric_controls a {\n    border-style: solid;\n    border-width: 1px;\n    display: inline-block;\n    float: none;\n}\n#top .post-entry-type-portfolio .slideshow_container .numeric_controls, #top .post-entry-type-gallery .slideshow_container .numeric_controls, #top .inner_slide .slideshow_container .numeric_controls {\n    display: block;\n}\n.thumbnails_container, .avc_inner_slide_wrap, .avc_inner_slide {\n}\n.avc_inner_slide_wrap, .thumbnails_container {\n    height: 56px;\n    overflow: hidden;\n}\n.avc_inner_slide {\n    width: 2000px;\n}\n.hide_controls .avc_controls {\n    display: none;\n}\n.avc_inner_slide .slideThumb {\n    margin-bottom: 0;\n}\n#top .avc_inner_slide .slideThumb.last_thumb {\n    margin-right: 0;\n}\n.avc_controls {\n    background-image: url(\"../images/layout/arrow.png\");\n    background-position: -31px center;\n    background-repeat: no-repeat;\n    border-radius: 30px;\n    height: 40px;\n    left: 12px;\n    margin-top: -20px;\n    opacity: 0.7;\n    overflow: hidden;\n    position: absolute;\n    text-indent: 200%;\n    top: 50%;\n    width: 40px;\n    z-index: 10;\n}\n.avc_controls_next {\n    background-position: -130px center;\n    left: auto;\n    right: 12px;\n}\n.avc_controls:hover {\n    opacity: 1;\n}\n.slideThumbTitle {\n    display: none;\n}\n.empty_image .img_span {\n    background-image: url(\"../images/layout/overlay-video.png\");\n    background-position: center center;\n    background-repeat: no-repeat;\n}\n.avBlock, .av_innerBlock {\n    background-image: url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAA3NCSVQICAjb4U/gAAAACXBIWXMAAAsSAAALEgHS3X78AAAAGHRFWHRDcmVhdGlvbiBUaW1lADIxLjA1LjIwMTIMQPIEAAAAHHRFWHRTb2Z0d2FyZQBBZG9iZSBGaXJld29ya3MgQ1M1cbXjNgAAAAxJREFUCJlj+P//PwAF/gL+WPJrDgAAAABJRU5ErkJggg==\");\n    background-position: -20px -20px;\n    background-repeat: no-repeat;\n}\n.av_innerBlock img {\n    height: auto;\n    width: 100%;\n}\n.style_border {\n    background: rgba(0, 0, 0, 0.1) none repeat scroll 0 0;\n    height: 12px;\n    left: 0;\n    position: absolute;\n    top: 0;\n    width: 100%;\n    z-index: 6;\n}\ndiv .syle_border_bottom {\n    bottom: 0;\n    height: 5px;\n    top: auto;\n}\n.slide_container_big_thumbs .syle_border_bottom {\n    bottom: 118px;\n}\n.preloading {\n    background-image: url(\"../images/layout/loading.gif\");\n    background-position: center center;\n    background-repeat: no-repeat;\n}\n.avia_loading_icon {\n    background: #000 url(\"../images/layout/preload-dark-big.gif\") no-repeat scroll center center;\n    border-radius: 30px;\n    display: none;\n    height: 60px;\n    left: 50%;\n    margin-left: -30px;\n    margin-top: -30px;\n    position: fixed;\n    top: 50%;\n    width: 60px;\n    z-index: 10000;\n}\n#top .slideshow li .avia_video {\n    height: 100% !important;\n    position: absolute;\n    width: 100% !important;\n}\n.comboslide .slideshow_overlay {\n    background-image: url(\"../images/layout/overlay-video-big.png\");\n    background-position: center center;\n    background-repeat: no-repeat;\n    bottom: 0;\n    cursor: pointer;\n    left: 0;\n    opacity: 0.7;\n    position: absolute;\n    right: 0;\n    top: 0;\n    z-index: 10;\n}\n.msie7 .slideshow_align_caption {\n    top: 30%;\n}\n    ",
+			"settings":
+			{
+				"buffer_size": 14027,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_carousel.scss",
+			"settings":
+			{
+				"buffer_size": 5921,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_navbar.scss",
+			"settings":
+			{
+				"buffer_size": 14754,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 31220,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5308,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 1500,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -79,13 +135,29 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 409.0,
+		"height": 750.0,
 		"last_filter": "html",
 		"selected_items":
 		[
 			[
 				"html",
-				"Set Syntax: HTML"
+				"HTMLPrettify"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"th",
+				"Themr: List themes"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
 			],
 			[
 				"prett",
@@ -168,10 +240,6 @@
 				"Indent XML"
 			],
 			[
-				"sass",
-				"Set Syntax: Sass"
-			],
-			[
 				"php",
 				"Set Syntax: PHP"
 			],
@@ -240,7 +308,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 593.0
+		"width": 772.0
 	},
 	"console":
 	{
@@ -261,10 +329,21 @@
 	},
 	"expanded_folders":
 	[
-		"/C/inetpub/wwwroot/clients/mtpulaskicc"
+		"/C/inetpub/wwwroot/clients/mtpulaskicc",
+		"/C/inetpub/wwwroot/clients/mtpulaskicc/bower_components",
+		"/C/inetpub/wwwroot/clients/mtpulaskicc/bower_components/bootstrap-sass-official",
+		"/C/inetpub/wwwroot/clients/mtpulaskicc/bower_components/bootstrap-sass-official/assets",
+		"/C/inetpub/wwwroot/clients/mtpulaskicc/bower_components/bootstrap-sass-official/assets/fonts",
+		"/C/inetpub/wwwroot/clients/mtpulaskicc/bower_components/bootstrap-sass-official/assets/fonts/bootstrap",
+		"/C/inetpub/wwwroot/clients/mtpulaskicc/bower_components/bootstrap-sass-official/assets/stylesheets",
+		"/C/inetpub/wwwroot/clients/mtpulaskicc/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap",
+		"/C/inetpub/wwwroot/clients/mtpulaskicc/lib",
+		"/C/inetpub/wwwroot/clients/mtpulaskicc/lib/src",
+		"/C/inetpub/wwwroot/clients/mtpulaskicc/lib/src/sass"
 	],
 	"file_history":
 	[
+		"/C/Users/TD/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/C/inetpub/wwwroot/clients/memorial-medical-2015/Portals/_default/Skins/MemorialMedical/Home.ascx",
 		"//wsvmm0007.lrs.com/e$/IISroot/mtpulaskicc/index.html",
 		"/C/inetpub/wwwroot/clients/memorial-medical-2015/Portals/_default/Skins/Memorial/Home.ascx",
@@ -391,12 +470,11 @@
 		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/.tmp/serve/index.html",
 		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/.tmp/serve/reg.html",
 		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/release/404.html",
-		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/release/auth.html",
-		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/release/reg.html"
+		"/C/Users/dyert/Documents/CSS/blur-admin-dnnpress/release/auth.html"
 	],
 	"find":
 	{
-		"height": 54.0
+		"height": 68.0
 	},
 	"find_in_files":
 	{
@@ -411,6 +489,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"chevron",
+			"ctrl_previous",
+			".arrow_controls a",
 			"\"\"",
 			"pg1html",
 			"HasPermission",
@@ -535,9 +616,6 @@
 			"dnx run",
 			"tPager",
 			"formatCardNumber =",
-			"formatCardNumber",
-			"recaptcha",
-			"google",
 			"formatCardNumber"
 		],
 		"highlight": true,
@@ -661,14 +739,221 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "lib/src/sass/styles.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5415,
+								5415
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 3355.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8480,
+								8183
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 13812.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_carousel.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2358,
+								2358
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3511.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_navbar.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14754,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5213,
+								5213
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 9214.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29324,
+								29324
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 31539.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4185,
+								4185
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2290.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								600,
+								600
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 44.0
+		"height": 48.0
 	},
 	"input":
 	{
@@ -713,7 +998,7 @@
 	"project": "mtpulaskicc site.sublime-project",
 	"replace":
 	{
-		"height": 84.0
+		"height": 92.0
 	},
 	"save_all_on_build": true,
 	"select_file":
