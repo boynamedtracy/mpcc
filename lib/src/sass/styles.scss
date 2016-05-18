@@ -104,6 +104,7 @@
 	margin: 0 auto;
     	position: relative;
     	z-index: 3;
+    overflow: hidden;
 }
 
 #header {
@@ -137,6 +138,23 @@
 		li {
 			a {
 				text-transform: uppercase;
+				font-weight: bold;
+			}
+			&::after {
+				display: block;
+				background-color: rgb(128,128, 128);
+				height: 100%;
+				content: "";
+				width: 1px;
+				right: 0;
+				top: 17px;
+				position: absolute;
+				height: 15px;
+			}
+			&:last-child {
+				&::after {
+					display: none;
+				}
 			}
 		}
 	}
@@ -173,4 +191,20 @@
     transform: scale(1);
 }
 .css_3_hover_container:hover {
+}
+
+.carousel-control {
+	a {
+		border-radius: 100px;
+    bottom: auto;
+    display: none;
+    float: left;
+    height: 75px;
+    left: -110px;
+    margin: -37px 0 0;
+    position: absolute;
+    top: 50%;
+    width: 75px;
+    z-index: 100;
+	}
 }

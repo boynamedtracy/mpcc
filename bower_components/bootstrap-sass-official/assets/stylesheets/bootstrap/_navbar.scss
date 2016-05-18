@@ -231,11 +231,12 @@
 
 .navbar-nav {
   margin: ($navbar-padding-vertical / 2) (-$navbar-padding-horizontal);
-
+  
   > li > a {
     padding-top:    10px;
     padding-bottom: 10px;
     line-height: $line-height-computed;
+    font-weight: bold;
   }
 
   @media (max-width: $grid-float-breakpoint-max) {
